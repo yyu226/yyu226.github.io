@@ -1,0 +1,5 @@
+<h2 style="text-align: center;"><span style="text-decoration: underline; background-color: #ffffff;">Welcome to Ying Yu's website!</span></h2>
+<p><span style="font-weight: 400;">Here are some projects I have accomplished.</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Thank you browsing.<img src="f1p0.png" alt="HDMI controller" width="640" height="480" />&nbsp;</span></p>
+<p><br /><br /></p>
